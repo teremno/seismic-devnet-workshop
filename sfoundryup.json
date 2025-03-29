@@ -1,0 +1,50 @@
+[
+  {
+    "name": "README.md",
+    "path": "sfoundryup/README.md",
+    "sha": "3f1c83cef10f2efec0657400cd64753c8c726ed0",
+    "size": 910,
+    "url": "https://api.github.com/repos/SeismicSystems/seismic-foundry/contents/sfoundryup/README.md?ref=seismic",
+    "html_url": "https://github.com/SeismicSystems/seismic-foundry/blob/seismic/sfoundryup/README.md",
+    "git_url": "https://api.github.com/repos/SeismicSystems/seismic-foundry/git/blobs/3f1c83cef10f2efec0657400cd64753c8c726ed0",
+    "download_url": "https://raw.githubusercontent.com/SeismicSystems/seismic-foundry/seismic/sfoundryup/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/SeismicSystems/seismic-foundry/contents/sfoundryup/README.md?ref=seismic",
+      "git": "https://api.github.com/repos/SeismicSystems/seismic-foundry/git/blobs/3f1c83cef10f2efec0657400cd64753c8c726ed0",
+      "html": "https://github.com/SeismicSystems/seismic-foundry/blob/seismic/sfoundryup/README.md"
+    }
+  },
+  {
+    "name": "install",
+    "path": "sfoundryup/install",
+    "sha": "2ba9a30712e09d444bb4d48cfe64efce1f7c25fb",
+    "size": 1806,
+    "url": "https://api.github.com/repos/SeismicSystems/seismic-foundry/contents/sfoundryup/install?ref=seismic",
+    "html_url": "https://github.com/SeismicSystems/seismic-foundry/blob/seismic/sfoundryup/install",
+    "git_url": "https://api.github.com/repos/SeismicSystems/seismic-foundry/git/blobs/2ba9a30712e09d444bb4d48cfe64efce1f7c25fb",
+    "download_url": "https://raw.githubusercontent.com/SeismicSystems/seismic-foundry/seismic/sfoundryup/install",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/SeismicSystems/seismic-foundry/contents/sfoundryup/install?ref=seismic",
+      "git": "https://api.github.com/repos/SeismicSystems/seismic-foundry/git/blobs/2ba9a30712e09d444bb4d48cfe64efce1f7c25fb",
+      "html": "https://github.com/SeismicSystems/seismic-foundry/blob/seismic/sfoundryup/install"
+    }
+  },
+  {
+    "name": "sfoundryup",
+    "path": "sfoundryup/sfoundryup",
+    "sha": "196850ed2ee110772079d9fd79780dccd16228f9",
+    "size": 6825,
+    "url": "https://api.github.com/repos/SeismicSystems/seismic-foundry/contents/sfoundryup/sfoundryup?ref=seismic",
+    "html_url": "https://github.com/SeismicSystems/seismic-foundry/blob/seismic/sfoundryup/sfoundryup",
+    "git_url": "https://api.github.com/repos/SeismicSystems/seismic-foundry/git/blobs/196850ed2ee110772079d9fd79780dccd16228f9",
+    "download_url": "https://raw.githubusercontent.com/SeismicSystems/seismic-foundry/seismic/sfoundryup/sfoundryup",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/SeismicSystems/seismic-foundry/contents/sfoundryup/sfoundryup?ref=seismic",
+      "git": "https://api.github.com/repos/SeismicSystems/seismic-foundry/git/blobs/196850ed2ee110772079d9fd79780dccd16228f9",
+      "html": "https://github.com/SeismicSystems/seismic-foundry/blob/seismic/sfoundryup/sfoundryup"
+    }
+  }
+]
