@@ -1,0 +1,3 @@
+[submodule "packages/try-devnet"]
+	path = packages/try-devnet
+	url = https://github.com/SeismicSystems/try-devnet.git
