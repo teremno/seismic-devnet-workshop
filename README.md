@@ -5,3 +5,5 @@
 - Added try-devnet as a submodule for further setup.
 
 - Progress: Compiled seismic-compilers (no ssolc), installed solc via Snap or manual download for sforge.
+
+- Progress: Successfully compiled Walnut.sol with sforge using standard solc 0.8.23 (suint256 replaced with uint256).
