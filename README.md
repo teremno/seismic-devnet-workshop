@@ -11,3 +11,5 @@
 - Progress: Worked on deploying Counter contract from try-devnet, replaced suint256 with uint256.
 
 - Progress: Successfully deployed Counter contract after replacing suint256 with uint256.
+
+- Note: Full encryption (suint256) requires Seismic-specific ssolc; seeking binary in Discord #devnet.
