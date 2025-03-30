@@ -18,4 +18,4 @@
 
 - Progress: Successfully deployed Walnut.sol on Seismic DevNet.
 
-- Progress: Successfully deployed Walnut.sol on Seismic DevNet with address <адреса_контракту>.
+- Progress: Successfully deployed Walnut.sol on Seismic DevNet with address <реальна_адреса>.
