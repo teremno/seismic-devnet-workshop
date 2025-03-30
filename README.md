@@ -13,3 +13,5 @@
 - Progress: Successfully deployed Counter contract after replacing suint256 with uint256.
 
 - Note: Full encryption (suint256) requires Seismic-specific ssolc; seeking binary in Discord #devnet.
+
+- Progress: Deployed custom Walnut.sol contract on Seismic DevNet.
