@@ -8,4 +8,6 @@
 
 - Progress: Successfully compiled Walnut.sol with sforge using standard solc 0.8.23 (suint256 replaced with uint256).
 
-- Progress: Deployed encrypted Counter contract from try-devnet on Seismic DevNet.
+- Progress: Worked on deploying Counter contract from try-devnet, replaced suint256 with uint256.
+
+- Progress: Successfully deployed Counter contract after replacing suint256 with uint256.
