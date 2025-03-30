@@ -14,4 +14,6 @@
 
 - Note: Full encryption (suint256) requires Seismic-specific ssolc; seeking binary in Discord #devnet.
 
-- Progress: Deployed custom Walnut.sol contract on Seismic DevNet.
+- Progress: Prepared Walnut.sol deployment, resolved private key issue.
+
+- Progress: Successfully deployed Walnut.sol on Seismic DevNet.
