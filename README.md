@@ -18,6 +18,6 @@
 
 - Progress: Successfully deployed Walnut.sol on Seismic DevNet.
 
-- Progress: Successfully deployed Walnut.sol on Seismic DevNet with address <адреса_з_розгортання>.
+- Progress: Successfully deployed Walnut.sol on Seismic DevNet with address <реальна_адреса>.
 
 - Progress: Configured CLI interaction with Walnut.sol, called hit() function.
